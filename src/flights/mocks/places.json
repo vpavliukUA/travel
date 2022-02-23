@@ -1,0 +1,28 @@
+{
+  "Places": [
+    {
+      "PlaceId": "KIEV-sky",
+      "PlaceName": "Kyiv",
+      "CountryId": "UA-sky",
+      "RegionId": "",
+      "CityId": "KIEV-sky",
+      "CountryName": "Ukraine"
+    },
+    {
+      "PlaceId": "KBP-sky",
+      "PlaceName": "Boryspil",
+      "CountryId": "UA-sky",
+      "RegionId": "",
+      "CityId": "KIEV-sky",
+      "CountryName": "Ukraine"
+    },
+    {
+      "PlaceId": "IEV-sky",
+      "PlaceName": "Kyiv",
+      "CountryId": "UA-sky",
+      "RegionId": "",
+      "CityId": "KIEV-sky",
+      "CountryName": "Ukraine"
+    }
+  ]
+}
